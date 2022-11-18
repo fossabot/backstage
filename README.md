@@ -3,6 +3,7 @@
 # [Backstage](https://backstage.io)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartina-if%2Fbackstage.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartina-if%2Fbackstage?ref=badge_shield)
 ![](https://github.com/spotify/backstage/workflows/Frontend%20CI/badge.svg)
 [![Discord](https://img.shields.io/discord/687207715902193673)](https://discord.gg/EBHEGzX)
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
@@ -61,3 +62,6 @@ Check out [the documentation](https://backstage.io/docs/getting-started) on how 
 Copyright 2020 Spotify AB.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartina-if%2Fbackstage.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartina-if%2Fbackstage?ref=badge_large)
